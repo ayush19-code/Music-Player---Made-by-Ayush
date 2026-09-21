@@ -1,8 +1,8 @@
-# 🎵 Spotify Clone – Web Music Player
+# 🎵 Music Player – Made by Ayush
 
-A responsive Spotify-inspired web music player built using **HTML, CSS, and JavaScript**.
+A modern, responsive web music player built using **HTML, CSS, and JavaScript**.
 
-This project recreates the look and basic functionality of a modern music streaming application, allowing users to browse music categories, play songs, control playback, adjust volume, and navigate between tracks.
+This project provides a clean music player application, allowing users to browse music categories, play songs, control playback, adjust volume, and navigate seamlessly between tracks.
 
 ## 🌐 Live Demo
 
@@ -22,7 +22,7 @@ This project recreates the look and basic functionality of a modern music stream
 - 🖼️ Playlist cover images
 - 📱 Responsive user interface
 - 🍔 Mobile navigation menu
-- 🎨 Spotify-inspired modern design
+- 🎨 Sleek modern UI design
 
 ## 🎶 Music Categories
 
@@ -47,7 +47,7 @@ The project includes multiple mood-based music collections such as:
 ## 📁 Project Structure
 
 ```text
-SPOTIFY/
+Music player - Made By Ayush/
 │
 ├── css/
 │   ├── style.css
@@ -77,7 +77,7 @@ SPOTIFY/
 │
 ├── songs.json
 ├── favicon.ico
-├── INDEX.HTML
+├── index.html
 └── README.md
 ```
 
@@ -128,6 +128,3 @@ This project was created to practice and demonstrate:
 
 Developed by **Ayush Saini**
 
-## 📌 Disclaimer
-
-This project is created for **educational and learning purposes only**. It is inspired by Spotify and is not affiliated with, endorsed by, or associated with Spotify.
