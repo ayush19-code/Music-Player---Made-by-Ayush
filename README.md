@@ -1,8 +1,8 @@
 # 🎵 Music Player – Made by Ayush
 
-A modern, responsive web music player built using **HTML, CSS, and JavaScript**.
+A modern, responsive web-based music player built using **HTML, CSS, and JavaScript**.
 
-This project provides a clean music player application, allowing users to browse music categories, play songs, control playback, adjust volume, and navigate seamlessly between tracks.
+This project provides a clean music player interface where users can browse music categories, play songs, control playback, adjust volume, and navigate between tracks.
 
 ## 🌐 Live Demo
 
@@ -20,7 +20,8 @@ This project provides a clean music player application, allowing users to browse
 - 🖼️ Playlist cover images
 - 📱 Responsive user interface
 - 🍔 Mobile navigation menu
-- 🎨 Sleek modern UI design
+- 🎨 Modern dark-themed UI
+- 🎼 Custom Music Player branding
 
 ## 🎶 Music Categories
 
@@ -38,21 +39,22 @@ The project includes multiple mood-based music collections such as:
 ## 🛠️ Tech Stack
 
 - **HTML5** – Structure of the application
-- **CSS3** – Styling and responsive design
+- **CSS3** – Styling, layouts, and responsive design
 - **JavaScript** – Music player functionality and interactivity
 - **JSON** – Song and playlist data management
 
 ## 📁 Project Structure
 
 ```text
-Music player - Made By Ayush/
+Music Player - Made by Ayush/
 │
 ├── css/
 │   ├── style.css
 │   └── utility.css
 │
 ├── img/
-│   ├── logo.svg
+│   ├── logo.png
+│   ├── favicon.png
 │   ├── play.svg
 │   ├── pause.svg
 │   ├── nextsong.svg
@@ -77,52 +79,3 @@ Music player - Made By Ayush/
 ├── favicon.ico
 ├── index.html
 └── README.md
-```
-
-## 🚀 How to Run Locally
-
-1. Clone or download this repository.
-
-2. Open the project folder in **VS Code**.
-
-3. For the best experience, run the project using a local development server such as **Live Server**.
-
-4. Open the application in your browser and start exploring the music player.
-
-## 🎮 How to Use
-
-1. Select a playlist or music category.
-2. Choose a song from the available tracks.
-3. Use the **Play/Pause** button to control playback.
-4. Use **Next/Previous** buttons to switch songs.
-5. Use the **progress bar** to navigate through a song.
-6. Adjust the audio using the **volume control**.
-
-## 🎯 Project Purpose
-
-This project was created to practice and demonstrate:
-
-- HTML page structure
-- CSS layouts and responsive design
-- JavaScript DOM manipulation
-- Event handling
-- Audio playback using JavaScript
-- Dynamic loading of songs
-- Working with JSON data
-- Building an interactive frontend application
-
-## 🔮 Future Improvements
-
-- User authentication
-- Search functionality
-- Favorite songs
-- Custom playlists
-- Shuffle and repeat functionality
-- Recently played songs
-- Backend and database integration
-- Music streaming API integration
-
-## 👨‍💻 Developer
-
-Developed by **Ayush Saini**
-
