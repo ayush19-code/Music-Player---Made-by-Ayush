@@ -6,9 +6,7 @@ This project provides a clean music player application, allowing users to browse
 
 ## 🌐 Live Demo
 
-🚀 [View Live Project](YOUR-LIVE-WEBSITE-LINK-HERE)
-
-> Replace the link above with your deployed website URL after deployment.
+🚀 [View Live Project](https://spotify-beta-six.vercel.app/)
 
 ## ✨ Features
 
